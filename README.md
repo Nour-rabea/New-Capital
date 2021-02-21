@@ -1,7 +1,5 @@
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTN6xFhr6q8Z6Zh4KWfQZ_wZVelpbccnFQOGuRvn1lDqouL_VatDDnDEd5NMM1zVY9dnyvty2LSUwOH/pubhtml?gid=1442424695&amp;single=true&amp;widget=true&amp;headers=false" width="1050" height="500"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1lFtGh24AcyVew8WYMXmHlSlC9fBeeZLg/preview" width="900" height="490"></iframe>
-
 # Analysis
 مقارنة بين المشاريع في الاسعار
    <iframe width="940" height="565" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvDdkXVqTzxQ6x1LOsZ-d3dKwvqBhbIQp8D2rILYKU8TjiaelaTtxJo0EZYPRiuoIRILQFaV6WiXWC/pubchart?oid=187743359&amp;format=interactive"></iframe>
