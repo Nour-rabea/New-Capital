@@ -11,9 +11,15 @@
 
   <div class="loader">Loading...</div>
   <div id="readme"></div>
+  <table id="maptable" class="display"></table>
 
-  <script type="text/javascript">
-    var readme.md
+<script type="text/javascript">
+  var map = L.map('map', {
+    attributionControl: false,
+    zoomControl: false,
+    scrollWheelZoom: true
+  }).setView([41.76,-72.69], 11); // default center is overridden by Google Sheet options and points
+</script>
 
 </body>
 </html>
