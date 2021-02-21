@@ -8,7 +8,7 @@
    <iframe width="940" height="530" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvDdkXVqTzxQ6x1LOsZ-d3dKwvqBhbIQp8D2rILYKU8TjiaelaTtxJo0EZYPRiuoIRILQFaV6WiXWC/pubchart?oid=1549540456&amp;format=interactive"></iframe>
 
 # الخريطه
-   <iframe src="https://nour-rabea.github.io/New-Capital-Residential/" width="940" height="680"></iframe>
+   <iframe src="https://nour-rabea.github.io/New-Capital-Residential/" width="1140" height="680"></iframe>
 
 ## Copyrights
    <iframe src="nour signature.jpg" width="700" height="200"></iframe>
