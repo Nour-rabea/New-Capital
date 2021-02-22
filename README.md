@@ -8,7 +8,7 @@
    <iframe src="https://nour-rabea.github.io/New-Capital-Residential/" width="1140" height="680"></iframe>
    
 ## Last updated satellite image for R7
-   <iframe src="Last Satellite.png" width="845" height="745"></iframe>
+   <iframe src="Last Satellite.png" width="840" height="740"></iframe>
    
 ## Copyrights
-   <iframe src="nour signature.jpg" width="745" height="260"></iframe>
+   <iframe src="nour signature.jpg" width="745" height="262"></iframe>
