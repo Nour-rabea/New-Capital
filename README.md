@@ -11,4 +11,4 @@
    <iframe src="Last Satellite.png" width="850" height="750"></iframe>
    
 ## Copyrights
-   <iframe src="nour signature.jpg" width="750" height="250"></iframe>
+   <iframe src="nour signature.jpg" width="745" height="260"></iframe>
