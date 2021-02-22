@@ -8,7 +8,7 @@
    <iframe src="https://nour-rabea.github.io/New-Capital-Residential/" width="1140" height="680"></iframe>
    
 ## اخر صورة بالقمر الصناعي للعاصمه R7
-   <iframe src="Last Satellite.png" width="800" height="700"></iframe>
+   <iframe src="Last Satellite.png" width="850" height="750"></iframe>
    
 ## Copyrights
    <iframe src="nour signature.jpg" width="700" height="200"></iframe>
