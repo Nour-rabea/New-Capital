@@ -5,13 +5,13 @@
 
 <iframe width="613" height="1407" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTN6xFhr6q8Z6Zh4KWfQZ_wZVelpbccnFQOGuRvn1lDqouL_VatDDnDEd5NMM1zVY9dnyvty2LSUwOH/pubchart?oid=579917601&amp;format=interactive"></iframe>
 
-<iframe width="613" height="1107" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTN6xFhr6q8Z6Zh4KWfQZ_wZVelpbccnFQOGuRvn1lDqouL_VatDDnDEd5NMM1zVY9dnyvty2LSUwOH/pubchart?oid=1968304689&amp;format=interactive"></iframe>
+<iframe width="613" height="1007" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTN6xFhr6q8Z6Zh4KWfQZ_wZVelpbccnFQOGuRvn1lDqouL_VatDDnDEd5NMM1zVY9dnyvty2LSUwOH/pubchart?oid=1968304689&amp;format=interactive"></iframe>
 
 <iframe width="613" height="947" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTN6xFhr6q8Z6Zh4KWfQZ_wZVelpbccnFQOGuRvn1lDqouL_VatDDnDEd5NMM1zVY9dnyvty2LSUwOH/pubchart?oid=848659723&amp;format=interactive"></iframe>
 
 <iframe width="613" height="947" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTN6xFhr6q8Z6Zh4KWfQZ_wZVelpbccnFQOGuRvn1lDqouL_VatDDnDEd5NMM1zVY9dnyvty2LSUwOH/pubchart?oid=2066198388&amp;format=interactive"></iframe>
 
-<iframe width="613" height="1022" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTN6xFhr6q8Z6Zh4KWfQZ_wZVelpbccnFQOGuRvn1lDqouL_VatDDnDEd5NMM1zVY9dnyvty2LSUwOH/pubchart?oid=2061778480&amp;format=interactive"></iframe>
+<iframe width="613" height="1072" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTN6xFhr6q8Z6Zh4KWfQZ_wZVelpbccnFQOGuRvn1lDqouL_VatDDnDEd5NMM1zVY9dnyvty2LSUwOH/pubchart?oid=2061778480&amp;format=interactive"></iframe>
 
 # Map
 Analysis basic info between all competitors
