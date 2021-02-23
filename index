@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <html lang="en">
 <head>
     <title>New-Capital-Residential</title>
@@ -7,8 +7,5 @@
     <meta charset="utf-8">
 <head>
 
-<readme>
-    <div readme="readme.md"></div>
-<readme>
-      
-</html>
+<h1>New Capital Analysis</h1>
+<p><a herf="readme.md">https://nour-rabea.github.io/New-Capital/</a>
