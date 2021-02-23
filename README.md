@@ -1,7 +1,3 @@
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTN6xFhr6q8Z6Zh4KWfQZ_wZVelpbccnFQOGuRvn1lDqouL_VatDDnDEd5NMM1zVY9dnyvty2LSUwOH/pubhtml?gid=1442424695&amp;single=true&amp;widget=true&amp;headers=false" width="1050" height="500"></iframe>
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTN6xFhr6q8Z6Zh4KWfQZ_wZVelpbccnFQOGuRvn1lDqouL_VatDDnDEd5NMM1zVY9dnyvty2LSUwOH/pubhtml?gid=1442424695&single=false" width="1050" height="500"></iframe>
-
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTN6xFhr6q8Z6Zh4KWfQZ_wZVelpbccnFQOGuRvn1lDqouL_VatDDnDEd5NMM1zVY9dnyvty2LSUwOH/pubhtml?gid=1442424695&amp;single=true&amp;widget=true&amp;headers=true" width="1050" height="500"></iframe>
 
 # Charts
