@@ -3,8 +3,8 @@
   padding: 0;
 }
 body{
-  packground-image: url (Media/Classified.png);
-  packground-size: cover;
-  packground-position: center;
+  background-image: url (Media/Classified.png);
+  background-size: cover;
+  background-position: center;
   font-family: sans-serif;
 }
