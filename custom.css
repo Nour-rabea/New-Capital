@@ -22,15 +22,12 @@
   opacity: .65;
 }
 
-.body{
+.my-custom-container {
+  max-width: 2000px;
   background-image: url(Media/background.png);
   background-size: cover;
   background-position: center;
   font-family: sans-serif;
-}
-
-.my-custom-container {
-  max-width: 2000px;
 }
 
 .accordion .btn-link:focus {
