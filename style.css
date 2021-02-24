@@ -2,4 +2,9 @@
   margin: 0;
   padding: 0;
 }
-  
+body{
+  packground-image: url(Media/Classified.png);
+  packground-size: cover;
+  packground-position: center;
+  font-family: sans-serif;
+}
