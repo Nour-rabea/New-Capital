@@ -3,7 +3,7 @@
 - Google Sheets template https://docs.google.com/spreadsheets/d/17FtwGOORkFA5hOplobtlBHmK8hQvAJEhCthb-sci3dQ/edit#gid=0
 
 ## Last updated satellite image for R7
-   <iframe src="Last Satellite.png" width="832" height="735"></iframe>
+   <iframe src="Media/Last Satellite.png" width="832" height="735"></iframe>
    
 ## Copyrights
-   <iframe src="nour signature.jpg" width="745" height="262"></iframe>
+   <iframe src="Media/Nour.jpg" width="845" height="262"></iframe>
