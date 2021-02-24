@@ -32,6 +32,7 @@
 
 .my-drawing {
   transition: all .33s ease-out;
+  class: right;
 }
 
 .my-drawing:hover {
