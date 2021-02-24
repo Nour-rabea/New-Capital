@@ -41,9 +41,3 @@
 .my-drawing:hover {
   transform: scale(1.054) rotate(15deg);
 }
-
-.signature {
-  background-size: cover;
-  background-position: center center;
-  position: relative;
-}
