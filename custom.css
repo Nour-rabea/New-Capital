@@ -21,9 +21,7 @@
   background-color: #000;
   opacity: .65;
 }
-<div class="col-md-5 text-center pt-5">
-    <img src="Media/Classified.png" class="my-drawing img-fluid" alt="Castle" />
-     </div>
+
 .my-custom-container {
   max-width: 2000px;
 }
