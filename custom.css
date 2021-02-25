@@ -35,7 +35,6 @@
 }
 
 .my-drawing {
-  size: 10;
   transition: all .33s ease-out;
 }
 
