@@ -35,9 +35,9 @@
 }
 
 .my-drawing {
-  transition: all .33s ease-out;
+  transition: all .22s ease-out;
 }
 
 .my-drawing:hover {
-  transform: scale(0.054) rotate(15deg);
+  transform: scale(1.054) rotate(18deg);
 }
