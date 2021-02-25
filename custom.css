@@ -35,7 +35,7 @@
 }
 
 .my-drawing {
-  z-index: 1;
+  size: 10;
   transition: all .33s ease-out;
 }
 
