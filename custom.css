@@ -36,6 +36,7 @@
 
 .my-drawing {
   transition: all .22s ease-out;
+  z-index: 3;
 }
 
 .my-drawing:hover {
